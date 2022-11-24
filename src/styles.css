@@ -1,3 +1,7 @@
+body {
+    background: radial-gradient(506px at 50.6% 16.5%, rgb(239, 252, 250) 5.5%, rgb(154, 192, 206) 100.2%)fixed;
+}
+
 h1,
 h2,
 p {
@@ -5,4 +9,20 @@ p {
     width: 30%;
     padding: 30px;
     margin: 30px auto;
+    color: white;
+}
+
+h1 {
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+.container {
+    background: radial-gradient(263px at 100.2% 3%, rgb(12, 85, 141) 31.1%, rgb(205, 181, 93) 36.4%, rgb(244, 102, 90) 50.9%, rgb(199, 206, 187) 60.7%, rgb(249, 140, 69) 72.5%, rgb(12, 73, 116) 72.6%)fixed;
 }
