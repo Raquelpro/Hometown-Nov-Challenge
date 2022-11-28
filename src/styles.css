@@ -10,7 +10,6 @@ p {
     width: 30%;
     padding: 30px;
     margin: 30px auto;
-    color: white;
 }
 
 h1 {
@@ -29,6 +28,15 @@ li {
   list-style-type: none;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 .intro {
     background: radial-gradient(263px at 100.2% 3%, rgb(12, 85, 141) 31.1%, rgb(205, 181, 93) 36.4%, rgb(244, 102, 90) 50.9%, rgb(199, 206, 187) 60.7%, rgb(249, 140, 69) 72.5%, rgb(12, 73, 116) 72.6%)fixed;
+}
+
+.title {
+    color: #ffd700;
 }
