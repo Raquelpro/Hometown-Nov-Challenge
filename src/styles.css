@@ -1,5 +1,8 @@
 body {
     background: radial-gradient(506px at 50.6% 16.5%, rgb(239, 252, 250) 5.5%, rgb(154, 192, 206) 100.2%)fixed;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 h1,
@@ -19,7 +22,8 @@ h1 {
     color: white;
 }
 
-ul {
+ul,
+p {
     color: white;
     
 }
@@ -38,5 +42,9 @@ img {
 }
 
 .title {
-    color: #ffd700;
+    color: #911c7d;
+}
+
+.title1 {
+    color: bisque;
 }
